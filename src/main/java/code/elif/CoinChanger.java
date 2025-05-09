@@ -6,7 +6,8 @@ package code.elif;
  * <p>
  * Given a target amount and a list of coin denominations, it computes how many
  * combinations of coins can be used to make up the target amount.
- *</p>
+ * </p>
+ *
  * @author Elif Akgün
  * @version 1.0
  * @since 28.09.2023
